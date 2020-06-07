@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Test set: com.vtiger.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 2, Time elapsed: 87.802 s <<< FAILURE! - in com.vtiger.runner.TestRunner
+Given User should be on login page(Scenario: Verify logo)  Time elapsed: 0.055 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 81
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WINDOWS-7-PC', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_241'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00435F73+2449267]
+	Ordinal0 [0x00368361+1606497]
+	Ordinal0 [0x0025F969+522601]
+	Ordinal0 [0x001F05F3+67059]
+	Ordinal0 [0x001ECD92+52626]
+	Ordinal0 [0x0020C127+180519]
+	Ordinal0 [0x0020BF2D+180013]
+	Ordinal0 [0x00209E5B+171611]
+	Ordinal0 [0x001F1DD8+73176]
+	Ordinal0 [0x001F2E50+77392]
+	Ordinal0 [0x001F2DE9+77289]
+	Ordinal0 [0x0037D8D7+1693911]
+	GetHandleVerifier [0x004D4036+522726]
+	GetHandleVerifier [0x004D3D74+522020]
+	GetHandleVerifier [0x004E9187+609079]
+	GetHandleVerifier [0x004D48A6+524886]
+	Ordinal0 [0x00375CBC+1662140]
+	Ordinal0 [0x0037F23B+1700411]
+	Ordinal0 [0x0037F3A3+1700771]
+	Ordinal0 [0x00395215+1790485]
+	BaseThreadInitThunk [0x76063677+18]
+	RtlInitializeExceptionChain [0x77969D72+99]
+	RtlInitializeExceptionChain [0x77969D45+54]
+
+
+Scenario: Verify logo  Time elapsed: 0.06 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 81
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WINDOWS-7-PC', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_241'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00435F73+2449267]
+	Ordinal0 [0x00368361+1606497]
+	Ordinal0 [0x0025F969+522601]
+	Ordinal0 [0x001F05F3+67059]
+	Ordinal0 [0x001ECD92+52626]
+	Ordinal0 [0x0020C127+180519]
+	Ordinal0 [0x0020BF2D+180013]
+	Ordinal0 [0x00209E5B+171611]
+	Ordinal0 [0x001F1DD8+73176]
+	Ordinal0 [0x001F2E50+77392]
+	Ordinal0 [0x001F2DE9+77289]
+	Ordinal0 [0x0037D8D7+1693911]
+	GetHandleVerifier [0x004D4036+522726]
+	GetHandleVerifier [0x004D3D74+522020]
+	GetHandleVerifier [0x004E9187+609079]
+	GetHandleVerifier [0x004D48A6+524886]
+	Ordinal0 [0x00375CBC+1662140]
+	Ordinal0 [0x0037F23B+1700411]
+	Ordinal0 [0x0037F3A3+1700771]
+	Ordinal0 [0x00395215+1790485]
+	BaseThreadInitThunk [0x76063677+18]
+	RtlInitializeExceptionChain [0x77969D72+99]
+	RtlInitializeExceptionChain [0x77969D45+54]
+
+

@@ -1,0 +1,8 @@
+com\vtiger\runner\TestRunner.class
+com\vtiger\pages\HeaderPage.class
+com\vtiger\pages\CreateLeadPage.class
+com\vtiger\pages\HomePage.class
+com\vtiger\stepdefinition\BaseTest.class
+com\vtiger\pages\LoginPage.class
+com\vtiger\stepdefinition\login.class
+com\vtiger\common\GenericMethods.class
